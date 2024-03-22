@@ -1,8 +1,7 @@
 # python_coding_test
 
 ## 💡 사용언어 
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-- Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br>
 
 ## 🐾 목표
