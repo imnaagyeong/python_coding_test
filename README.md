@@ -1,21 +1,24 @@
-# python_coding_test
+# 🐍 Python Coding Test
 
-## 💡 사용언어 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<br>
+## 💡 사용 언어  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
-## 🐾 목표
-파이썬을 활용하여 백준이나 프로그래머스 같은 코딩 테스트 플랫폼에서 문제를 풀면서 언어에 익숙해지고, 이를 바탕으로 코딩테스트와 인공지능 과제를 수행한다.
+---
 
-<br>
+## 🎯 목표  
+💡 **Python을 활용하여 코딩 테스트 플랫폼(백준, 프로그래머스)에서 문제를 해결하며 실력을 향상**  
+💡 **언어에 익숙해지고, 코딩 테스트 및 인공지능 관련 과제 수행 능력 배양**  
 
-## 🖊 사이트
-1. [Baekjoon](https://www.acmicpc.net/)
-2. [Programmers](https://programmers.co.kr/)
+---
 
-<br>
+## 🌐 코딩 테스트 사이트  
+📌 [**Baekjoon Online Judge**](https://www.acmicpc.net/)  
+📌 [**Programmers**](https://programmers.co.kr/)  
 
-## 🤸🏻‍♂️ 진행사항
-- ⭐️ [24/03/22 - 진행중] Baekjoon 단계별 풀어보기 1~15 
+---
 
-<br>
+## 🚀 진행 상황  
+- 📘 [25/02/07 - 진행중] Do it! 알고리즘 코딩테스트
+- 
+
+---
