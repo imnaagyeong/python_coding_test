@@ -1,11 +1,14 @@
 import sys
+input = sys.stdin.readline
 
-N, M = map(int, sys.stdin.readline().strip().split())
-numbers = list(map(int, sys.stdin.readline().strip().split()))
-S = [0] * (N + 1)
-for i in range(1, N+1):
-    S[i] = S[i-1] + numbers[i-1]
+N, M = map(int, input().split())
+nums = list(map(int, input().split()))
+
+# 누적합 배열 만들기 (0번째는 0으로 시작)
+prefix_sum = [0]
+for num in nums:
+    prefix_sum.append(prefix_sum[-1] + num)
 
 for _ in range(M):
-    i, j = map(int, sys.stdin.readline().strip().split())
-    print(S[j] - S[i-1])
+    A, B = map(int, input().split())
+    print(prefix_sum[B] - prefix_sum[A - 1])
